@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="SSIS_git1"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{A407BD1A-B1C2-46C9-B0AE-6F372F2653FD}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{46F0E733-1E40-4D10-B421-D4EBE6F4286C}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -215,11 +215,11 @@
         <NodeLayout
           Size="157.333333333334,42.6666666666667"
           Id="Package\Data Flow Task\Data Conversion"
-          TopLeft="163.333333333333,186.666666666667" />
+          TopLeft="200.666666666667,243.333333333333" />
         <NodeLayout
-          Size="166.666666666667,42"
+          Size="270.666666666667,42"
           Id="Package\Data Flow Task\Data Conversion 1"
-          TopLeft="373.333333333333,102" />
+          TopLeft="172,132" />
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
